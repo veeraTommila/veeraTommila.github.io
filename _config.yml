@@ -1,0 +1,9 @@
+# Site settings
+title: Great New Blog Title
+author:
+  name: Veera Tommila
+  email: veera.tommila@gmail.com
+description: "Great site about Jekyll on GH-pages."
+
+# Build settings
+remote_theme: jekyll/minima
